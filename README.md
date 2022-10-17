@@ -1,0 +1,2 @@
+# note-app
+Midterm project
