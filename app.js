@@ -36,6 +36,11 @@ if(cmd[2] === "delete") {
     const del = require ('./del')
     del (id, oldNote)
     console.log (del)
-    }
-      
+    
+}
+
+
+
+
+
     
